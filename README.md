@@ -15,9 +15,12 @@ Features
 
 
 Requirements
-Python 3.x
+- Python **3.7+** (tested on Python 3.7, 3.8, 3.10, 3.11)  
 
-Pillow library (Python Imaging Library)
+- Pillow library — install it with:
+
+bash
+pip install pillow
 
 Installation
 Clone this repository or download the script
