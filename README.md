@@ -15,7 +15,7 @@ Features
 
 
 Requirements
-- Python **3.7+** (tested on Python 3.7, 3.8, 3.10, 3.11)  
+- Python 3.7+
 
 - Pillow library — install it with:
 
